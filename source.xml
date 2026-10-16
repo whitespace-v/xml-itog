@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Комментарии</title></head>
+<body>
+<ul>
+  <li><span class="author">Вася Пупкин</span><p>Привет всем!</p>
+    <ul>
+      <li><span class="author">Федя Сумкин</span><p>Ну, привет</p>
+        <ul>
+          <li><span class="author">Вова Морковкин</span><p>Не ну, а Привет!</p></li>
+          <li><span class="author">Петя Зайцев</span><p>Чё так не весело?</p>
+            <ul>
+              <li><span class="author">Зина Корзинкина</span><p>Может у него настроение плохое</p>
+                <ul>
+                  <li><span class="author">Петя Зайцев</span><p>Я просто спросил</p></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><span class="author">Вова Морковкин</span><p>И тебе привет! Как дела?</p>
+        <ul>
+          <li><span class="author">Вася Пупкин</span><p>Ничё так.</p></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+</body>
+</html>
